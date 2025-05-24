@@ -1,5 +1,10 @@
 # Stock Price Prediction
 
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-Active-brightgreen)
+
 This project implements a robust, end-to-end pipeline for forecasting stock returns of S&P 500 companies using machine learning. It covers data retrieval, feature engineering, dataset assembly, model training, and prediction reporting, with a focus on reproducibility and extensibility.
 
 ---
