@@ -9,6 +9,23 @@ This project implements a robust, end-to-end pipeline for forecasting stock retu
 
 ---
 
+## Table of Contents
+
+- [Project Structure](#project-structure)
+- [Pipeline Overview](#pipeline-overview)
+  - [1. Data Retrieval](#1-data-retrieval)
+  - [2. Feature Engineering](#2-feature-engineering)
+  - [3. Dataset Assembly](#3-dataset-assembly)
+  - [4. Modeling & Prediction](#4-modeling--prediction)
+  - [5. Reporting](#5-reporting)
+- [How to Run](#how-to-run)
+- [Key Features](#key-features)
+- [Requirements](#requirements)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+---
+
 ## Project Structure
 
 ```
