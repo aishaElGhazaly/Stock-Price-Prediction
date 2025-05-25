@@ -152,3 +152,7 @@ See [Stock-Price-Prediction/LICENSE](Stock-Price-Prediction/LICENSE).
 - [AutoGluon](https://auto.gluon.ai/)
 - [yfinance](https://github.com/ranaroussi/yfinance)
 - [Alpha Vantage](https://www.alphavantage.co/)
+
+---
+
+*Last updated: May 25, 2025*
