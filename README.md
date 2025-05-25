@@ -4,6 +4,8 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
+![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![Model](https://img.shields.io/badge/AutoML-AutoGluon-blueviolet)
 
 This project implements a robust, end-to-end pipeline for forecasting stock returns of S&P 500 companies using machine learning. It covers data retrieval, feature engineering, dataset assembly, model training, and prediction reporting, with a focus on reproducibility and extensibility.
 
